@@ -1,7 +1,21 @@
 {
-  "name": "@runrun/core",
-  "version": "0.0.1",
+  "name": "trantran",
+  "version": "0.0.3",
   "description": "A simple task runner",
+  "keywords": [
+    "task",
+    "runner",
+    "task runner",
+    "typescript",
+    "make"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/corradodellorusso/trantran"
+  },
+  "files": [
+    "./dist/**/*"
+  ],
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
